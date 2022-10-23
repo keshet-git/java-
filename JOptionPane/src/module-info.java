@@ -1,0 +1,3 @@
+module JOptionPane {
+	exports JOptionPane;
+}
