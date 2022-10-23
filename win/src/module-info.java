@@ -1,0 +1,3 @@
+module win {
+	exports win;
+}
